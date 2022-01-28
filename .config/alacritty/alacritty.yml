@@ -1,0 +1,5 @@
+
+import:
+  - ~/.config/alacritty/alacritty.sample.yaml
+  - ~/.config/alacritty/alacritty.keybinds.yaml
+  - ~/.config/alacritty/themes/nord.yaml
